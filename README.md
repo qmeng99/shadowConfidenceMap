@@ -1,7 +1,6 @@
 # shadowConfidenceMap
 Code for paper ''Weakly Supervised Estimation of Shadow Confidence Maps in Fetal Ultrasound Imaging''
 
-This code (residual_modef.py) uses the residual unit from toolkit DLTK (https://dltk.github.io/). Please install the DLTK before using residual_modef.py
 
 ```
 @article{meng2018ShadowConfidenceMap,
@@ -15,3 +14,6 @@ This code (residual_modef.py) uses the residual unit from toolkit DLTK (https://
 }
 ```
 If you make use of the code, please cite the paper in any resulting publications.
+
+
+This code (residual_modef.py) uses the residual unit from toolkit DLTK (https://dltk.github.io/). Please install the DLTK before using residual_modef.py
