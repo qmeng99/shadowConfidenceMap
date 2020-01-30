@@ -1,6 +1,9 @@
 # ShadowConfidenceMap
 Code for paper ''Weakly Supervised Estimation of Shadow Confidence Maps in Fetal Ultrasound Imaging''
 
+<p align="center">
+    <img src="images/method.png" width="85%" height="85%">
+</p>
 
 ```
 @article{meng2018ShadowConfidenceMap,
